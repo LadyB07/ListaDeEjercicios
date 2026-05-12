@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SistemaUniversitarioModelStoreContainer" CdmEntityContainer="SistemaUniversitarioEntities">
+    <EntitySetMapping Name="Estudiantes">
+      <EntityTypeMapping TypeName="SistemaUniversitarioModel.Estudiantes">
+        <MappingFragment StoreEntitySet="Estudiantes">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Nombre" ColumnName="Nombre" />
+          <ScalarProperty Name="Carrera" ColumnName="Carrera" />
+          <ScalarProperty Name="Promedio" ColumnName="Promedio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
