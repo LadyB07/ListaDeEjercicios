@@ -1,0 +1,11 @@
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\bin\Debug\Sistema_Biblioteca.exe.config
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\bin\Debug\Sistema_Biblioteca.exe
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\bin\Debug\Sistema_Biblioteca.pdb
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\obj\Debug\Sistema_Biblioteca.csproj.AssemblyReference.cache
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\obj\Debug\Sistema_Biblioteca.Form1.resources
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\obj\Debug\Sistema_Biblioteca.Properties.Resources.resources
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\obj\Debug\Sistema_Biblioteca.csproj.GenerateResource.cache
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\obj\Debug\Sistema_Biblioteca.csproj.CoreCompileInputs.cache
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\obj\Debug\Sistema_Biblioteca.exe
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\obj\Debug\Sistema_Biblioteca.pdb
+D:\Programación II\Sistema_Biblioteca\Sistema_Biblioteca\obj\Debug\Sistema_Biblioteca.exe.config

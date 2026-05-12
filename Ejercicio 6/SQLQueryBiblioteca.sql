@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Id]
+      ,[Titulo]
+      ,[Autor]
+      ,[AñoPublicacion]
+      ,[Disponible]
+  FROM [BibliotecaDB].[dbo].[Libros]
