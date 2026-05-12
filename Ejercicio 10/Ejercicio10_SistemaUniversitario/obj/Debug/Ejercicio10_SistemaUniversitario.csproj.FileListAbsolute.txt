@@ -1,0 +1,15 @@
+D:\Programación II\Ejercicio10_SistemaUniversitario\bin\Debug\Ejercicio10_SistemaUniversitario.exe.config
+D:\Programación II\Ejercicio10_SistemaUniversitario\bin\Debug\Ejercicio10_SistemaUniversitario.exe
+D:\Programación II\Ejercicio10_SistemaUniversitario\bin\Debug\Ejercicio10_SistemaUniversitario.pdb
+D:\Programación II\Ejercicio10_SistemaUniversitario\bin\Debug\EntityFramework.dll
+D:\Programación II\Ejercicio10_SistemaUniversitario\bin\Debug\EntityFramework.SqlServer.dll
+D:\Programación II\Ejercicio10_SistemaUniversitario\bin\Debug\EntityFramework.xml
+D:\Programación II\Ejercicio10_SistemaUniversitario\bin\Debug\EntityFramework.SqlServer.xml
+D:\Programación II\Ejercicio10_SistemaUniversitario\obj\Debug\Ejercicio10_SistemaUniversitario.csproj.AssemblyReference.cache
+D:\Programación II\Ejercicio10_SistemaUniversitario\obj\Debug\Ejercicio10_SistemaUniversitario.Form1.resources
+D:\Programación II\Ejercicio10_SistemaUniversitario\obj\Debug\Ejercicio10_SistemaUniversitario.Properties.Resources.resources
+D:\Programación II\Ejercicio10_SistemaUniversitario\obj\Debug\Ejercicio10_SistemaUniversitario.csproj.GenerateResource.cache
+D:\Programación II\Ejercicio10_SistemaUniversitario\obj\Debug\Ejercicio10_SistemaUniversitario.csproj.CoreCompileInputs.cache
+D:\Programación II\Ejercicio10_SistemaUniversitario\obj\Debug\Ejercici.8F2AB555.Up2Date
+D:\Programación II\Ejercicio10_SistemaUniversitario\obj\Debug\Ejercicio10_SistemaUniversitario.exe
+D:\Programación II\Ejercicio10_SistemaUniversitario\obj\Debug\Ejercicio10_SistemaUniversitario.pdb

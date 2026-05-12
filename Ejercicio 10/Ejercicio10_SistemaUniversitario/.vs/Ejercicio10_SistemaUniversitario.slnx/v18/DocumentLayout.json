@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|d:\\programaci\u00F3n ii\\ejercicio10_sistemauniversitario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\repositorios\\estudianterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|solutionrelative:repositorios\\estudianterepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\entidades\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|solutionrelative:entidades\\carrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|solutionrelative:entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\datos\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86B33C5A-0861-4D33-BD94-5E8FB28682DD}|Ejercicio10_SistemaUniversitario.csproj|solutionrelative:datos\\universidadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwEkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T05:01:48.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudianteRepo.cs",
+              "DocumentMoniker": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Repositorios\\EstudianteRepo.cs",
+              "RelativeDocumentMoniker": "Repositorios\\EstudianteRepo.cs",
+              "ToolTip": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Repositorios\\EstudianteRepo.cs",
+              "RelativeToolTip": "Repositorios\\EstudianteRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T04:47:32.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UniversidadContext.cs",
+              "DocumentMoniker": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Datos\\UniversidadContext.cs",
+              "RelativeDocumentMoniker": "Datos\\UniversidadContext.cs",
+              "ToolTip": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Datos\\UniversidadContext.cs",
+              "RelativeToolTip": "Datos\\UniversidadContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T04:47:03.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Entidades\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Entidades\\Estudiante.cs",
+              "ToolTip": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Entidades\\Estudiante.cs",
+              "RelativeToolTip": "Entidades\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T04:46:38.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carrera.cs",
+              "DocumentMoniker": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Entidades\\Carrera.cs",
+              "RelativeDocumentMoniker": "Entidades\\Carrera.cs",
+              "ToolTip": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Entidades\\Carrera.cs",
+              "RelativeToolTip": "Entidades\\Carrera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T04:46:02.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Programaci\u00F3n II\\Ejercicio10_SistemaUniversitario\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T03:55:51.123Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

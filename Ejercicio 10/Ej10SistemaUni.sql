@@ -1,0 +1,5 @@
+SELECT TOP (1000) [Id]
+      ,[Nombre]
+      ,[Edad]
+      ,[CarreraId]
+  FROM [SistemaUniversitario].[dbo].[Estudiantes]
